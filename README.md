@@ -5,6 +5,20 @@ ACT 1:
 ![image](https://user-images.githubusercontent.com/43123955/135801246-b41c5929-4213-4641-9f78-12fa91a0d356.png)
 
 ACT 2:
+![image](https://user-images.githubusercontent.com/43123955/135801372-27cab00f-5274-4ad2-87ac-fd8d5384a49f.png)
+
+ACT 3:
+
+![image](https://user-images.githubusercontent.com/43123955/135804832-c29018e4-f6d6-449f-afc8-90e17f959041.png)
+
+
+ACT 4:
+
+ACT 5:
+
+Function requirement: Execute course word query and return courses related to the word or that contain the word in it's course description. The website does not give feedback when a query does  not find any results for a word. I would add an error message to provide the client some feedback.
+
+Non Functional Requirement: Aesthetically pleasing - this website is "ugly", it looks like basic code was used. The presentation of courses are also close together and at times, it is hard to see where course information starts or stops. I would improve this by using html templates to greate webstie marginsaround the entire page. I would also add padding around the course information.
 
 
 
