@@ -1,6 +1,15 @@
 
 Janelle - This is Janelle. This repo is a clone of https://github.com/nelaturuk/education_pathways
 
+ACT 1:
+![image](https://user-images.githubusercontent.com/43123955/135801246-b41c5929-4213-4641-9f78-12fa91a0d356.png)
+
+ACT 2:
+
+
+
+
+
 # CARTE Education Pathways
 
 ## Description
